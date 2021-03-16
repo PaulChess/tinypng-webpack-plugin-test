@@ -1,0 +1,25 @@
+#root {
+	height: 100vh;
+	background: url("./img/gz.jpg") no-repeat center/auto 100%;
+}
+.pig {
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	background: no-repeat center/contain;
+	box-shadow: 1px 1px 5px rgba(#000, .5);
+}
+
+.pig + .pig {
+  margin-left: 20px;
+}
+
+.pig-1 {
+  background-image: url("./img/pig-1.jpg");
+}
+.pig-2 {
+  background-image: url("./img/pig-2.jpg");
+}
+.pig-3 {
+  background-image: url("./img/pig-3.jpg");
+}
