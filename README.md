@@ -1,4 +1,4 @@
-# tinypng-webpack-plugin-test
+# tinyimg-webpack-plugin-test
 测试tinypng-webpack
 
 插件仓库地址
